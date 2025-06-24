@@ -1,0 +1,19 @@
+.navbar-item {
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.navbar-item img {
+    width: 24px;
+    height: 24px;
+    margin-bottom: 5px;
+}
+
+.navbar-item:hover {
+    color: #ffcccb;
+}
